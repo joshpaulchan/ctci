@@ -27,7 +27,9 @@ def main():
             Tree(7,
                 Tree(6)
             ),
-            Tree(10)
+            Tree(10,
+                Tree(9)
+            )
         ),
     )
 
